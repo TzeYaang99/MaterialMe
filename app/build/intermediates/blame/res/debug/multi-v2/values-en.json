@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\taruc\\Downloads\\MaterialMe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\taruc\\Downloads\\MaterialMe\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "37,22,8,2,4,5,6,3",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1642,1032,631,57,161,212,283,108",
+                        "endLines": "50,34,20,2,4,5,6,3",
+                        "endColumns": "12,19,19,49,49,69,344,51",
+                        "endOffsets": "2176,1632,1024,102,206,277,623,155"
+                    },
+                    "to": {
+                        "startLines": "2,16,29,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,581,1174,1560,1610,1660,1730,2075",
+                        "endLines": "15,28,41,42,43,44,45,46",
+                        "endColumns": "12,19,19,49,49,69,344,51",
+                        "endOffsets": "576,1169,1555,1605,1655,1725,2070,2122"
+                    }
+                }
+            ]
+        }
+    ]
+}

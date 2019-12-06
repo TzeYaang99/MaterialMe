@@ -1,0 +1,4 @@
+#Fri Dec 06 14:45:14 SGT 2019
+base.0=C\:\\Users\\taruc\\Downloads\\MaterialMe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
